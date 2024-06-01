@@ -8,7 +8,7 @@
 
 #### This script provides encryption and decryption functionalities for files using a specified algorithm.
 
-### Usage: ./filename.sh < en/de >
+#### Usage: ./filename.sh < en/de >
 
 ---
 
@@ -25,7 +25,7 @@
 
 #### This script generates random passwords of specified length.
 
-### Usage: ./filename.sh
+#### Usage: ./filename.sh
 
 
 ---
@@ -37,7 +37,7 @@
 
 #### This script conducts a ping sweep on a specified range of IP addresses to determine which hosts are online.
 
-### Usage: ./filename < subnet >
+#### Usage: ./filename < subnet >
 
 ---
 
@@ -45,4 +45,4 @@
 
 #### This script scans for open ports on a specified host.
 
-### Usage: ./filename < target-IP > 
+#### Usage: ./filename < target-IP > 
